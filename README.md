@@ -3,6 +3,9 @@
   - Francisco Jesús Díaz Pellejero
   - Tamara Redondo Soto
   - Javier Villar Asensio
+
+# Requirements
+Only a google account is needed for opening colab files. No further dependecies are neccessary.
   
 # Structure:
   This GitHub repository contains the solutions to the Tasks 2.1, 2.2 and 2.3. Divided into 3 directories.
