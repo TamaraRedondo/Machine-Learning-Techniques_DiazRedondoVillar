@@ -24,4 +24,4 @@ This project has been merged into 1 single repository. The link of the individua
 
 # Execution
 
-All the assigments have been made in google colab. For testing the code we download each colab file and open it with google drive. Each README file and colab file explains the steps to follow in order to execute everything successfully.
+All the assigments have been made in google colab. For testing the code we download each colab file and open it with google drive. Each README file and colab file explains the steps to follow in order to execute everything successfully. Although testing is not even required, by entering the colab files themselves in github, the code and the results of the execution are accessible.
